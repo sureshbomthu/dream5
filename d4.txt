@@ -1,0 +1,2 @@
+git pull origin master
+  for pulling d4 txt file 
